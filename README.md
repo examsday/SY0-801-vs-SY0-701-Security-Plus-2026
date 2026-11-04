@@ -32,6 +32,6 @@ The exam is changing, but the mission stays the same: **Get Security+ certified!
 ⭐ Star this repository for more exam updates.
 
 
-### 🔎 Hashtags
+### Hashtags
 
 #SY0801 #SY0701 #CompTIASecurityPlus #SecurityPlusV8 #SY0801PracticeTest #SY0801ExamQuestions #CompTIAExam2026 #CybersecurityCertification #ExamsDay
